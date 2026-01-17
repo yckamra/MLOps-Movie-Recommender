@@ -1,0 +1,5 @@
+venv/
+.idea/
+-e
+-v
+.DS_Store
